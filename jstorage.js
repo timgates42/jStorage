@@ -470,7 +470,7 @@
     }
 
     /**
-     * Function checks if a key is set and is string or numberic
+     * Function checks if a key is set and is string or numeric
      *
      * @param {String} key Key name
      */
